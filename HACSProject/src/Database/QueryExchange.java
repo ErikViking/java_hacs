@@ -81,7 +81,7 @@ public class QueryExchange {
      * @Brief Not used but gets everything in the Database
      * 
      * Added for completeness and testing. 
-     * 
+     * lkjlkj
      * @throws SQLException 
      */
     /*
